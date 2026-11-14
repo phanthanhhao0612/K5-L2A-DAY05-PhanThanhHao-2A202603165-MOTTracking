@@ -7,7 +7,7 @@
 - Họ tên: Phan Thanh Hảo
 - MSSV: 2A202603165
 - Mã đề (A/B/C): A
-- Email: haopt2a202603165@st.vinuni.edu.vn
+- Email:  26ai.haopt@vinuni.edu.vn
 - Link repository: https://github.com/phanthanhhao0612/K5-L2A-PhanThanhHao_2A202603165-MOTTracking
 - Giờ bắt đầu: 16:45
 - Giờ kết thúc: 18:30
